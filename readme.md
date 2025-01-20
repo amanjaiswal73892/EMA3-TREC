@@ -38,4 +38,4 @@ Step 5: Compute ranking scores based on the similarity matrices.
 1. `parse-rank-rerank.ipynb` python notebook provides the code for both stage 1 and 2.
 2. `results-analysis.ipynb` reproduces the results in the paper.
 3. `clean_topic_sentence.csv` is output of the converting the XML TREC topics into sentences. 
-4. `final_results.p` is output of stage 1 in pickle format.
+4. `final_results.zip` is output of stage 1 in pickle format (Unzip before use).
